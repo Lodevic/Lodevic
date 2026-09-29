@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Lodevic 👋
 
-<!--
-**Lodevic/Lodevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Software Engineering
 
-Here are some ideas to get you started:
+I'm an Informatics graduate and currently pursuing a Master's degree
+in Digital Business and Technology Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- PHP • Laravel • CodeIgniter
+- JavaScript • React.js
+- Python • Flask
+- MySQL
+- HTML • CSS • Bootstrap
+- Git & GitHub
+
+### 🎓 Education
+
+**M.Kom — Universitas Atma Jaya Yogyakarta**  
+Digital Business & Technology Management · 2026–Present
+
+**S.Kom — Universitas Sanata Dharma**  
+System Development · 2022–2026 · GPA 3.62
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/lodevic/) • [Instagram](https://www.instagram.com/lodevict/)
